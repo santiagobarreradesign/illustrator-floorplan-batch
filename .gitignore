@@ -1,0 +1,19 @@
+.DS_Store
+**/floorplan-automation/headless-result.txt
+**/floorplan-automation/headless-run.txt
+**/floorplan-automation/presentation-headless-result.txt
+**/floorplan-automation/presentation-headless-run.txt
+**/testing/floorplan-automation/headless-result.txt
+**/testing/floorplan-automation/headless-run.txt
+**/testing/floorplan-automation/presentation-headless-result.txt
+**/testing/floorplan-automation/presentation-headless-run.txt
+
+# Supplier artwork & generated deliverables (keep this repo tooling-only)
+*.eps
+*.ai
+*.jpg
+*.jpeg
+*.pdf
+
+# Optional local-only memo templates (never commit letterhead)
+/LOLO Memo Template.docx
